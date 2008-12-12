@@ -1,6 +1,6 @@
 package Bundle::Advent::Year2005;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -14,7 +14,7 @@ Bundle::Advent::Year2005 - Modules of the 2005 Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -25,57 +25,57 @@ L<http://www.perladvent.org/2005/>.
 
 =head1 CONTENTS
 
-HTML::Parser - L<HTML::Parser|pod>, L<http://www.perladvent.org/2005/05/>
+HTML::Parser - L<pod|HTML::Parser>, L<http://www.perladvent.org/2005/05/>
 
-LWP::Simple - L<LWP::Simple|pod>, L<http://www.perladvent.org/2005/05/>
+LWP::Simple - L<pod|LWP::Simple>, L<http://www.perladvent.org/2005/05/>
 
-Lingua::EN::Numbers::Ordinate - L<Lingua::EN::Numbers::Ordinate|pod>, L<http://www.perladvent.org/2005/05/>
+Lingua::EN::Numbers::Ordinate - L<pod|Lingua::EN::Numbers::Ordinate>, L<http://www.perladvent.org/2005/05/>
 
-Perl::Tidy - L<Perl::Tidy|pod>, L<http://www.perladvent.org/2005/05/>
+Perl::Tidy - L<pod|Perl::Tidy>, L<http://www.perladvent.org/2005/05/>
 
-Text::Table - L<Text::Table|pod>, L<http://www.perladvent.org/2005/05/>
+Text::Table - L<pod|Text::Table>, L<http://www.perladvent.org/2005/05/>
 
-Interpolation - L<Interpolation|pod>, L<http://www.perladvent.org/2005/06/>
+Interpolation - L<pod|Interpolation>, L<http://www.perladvent.org/2005/06/>
 
-spod5 - L<spod5|pod>, L<http://www.perladvent.org/2005/07/>
+spod5 - L<pod|spod5>, L<http://www.perladvent.org/2005/07/>
 
-bignum - L<bignum|pod>, L<http://www.perladvent.org/2005/08/>
+bignum - L<pod|bignum>, L<http://www.perladvent.org/2005/08/>
 
-CGI::Ajax - L<CGI::Ajax|pod>, L<http://www.perladvent.org/2005/09/>
+CGI::Ajax - L<pod|CGI::Ajax>, L<http://www.perladvent.org/2005/09/>
 
-PPT - L<PPT|pod>, L<http://www.perladvent.org/2005/10/>
+PPT - L<pod|PPT>, L<http://www.perladvent.org/2005/10/>
 
-Perl6::Junction - L<Perl6::Junction|pod>, L<http://www.perladvent.org/2005/11/>
+Perl6::Junction - L<pod|Perl6::Junction>, L<http://www.perladvent.org/2005/11/>
 
-re - L<re|pod>, L<http://www.perladvent.org/2005/12/>
+re - L<pod|re>, L<http://www.perladvent.org/2005/12/>
 
-Regexp::Keep - L<Regexp::Keep|pod>, L<http://www.perladvent.org/2005/13/>
+Regexp::Keep - L<pod|Regexp::Keep>, L<http://www.perladvent.org/2005/13/>
 
-HTML::Lint - L<HTML::Lint|pod>, L<http://www.perladvent.org/2005/14/>
+HTML::Lint - L<pod|HTML::Lint>, L<http://www.perladvent.org/2005/14/>
 
-Data::COW - L<Data::COW|pod>, L<http://www.perladvent.org/2005/15/>
+Data::COW - L<pod|Data::COW>, L<http://www.perladvent.org/2005/15/>
 
-XML::RSS::SimpleGen - L<XML::RSS::SimpleGen|pod>, L<http://www.perladvent.org/2005/16/>
+XML::RSS::SimpleGen - L<pod|XML::RSS::SimpleGen>, L<http://www.perladvent.org/2005/16/>
 
-Acme::POE::Knee - L<Acme::POE::Knee|pod>, L<http://www.perladvent.org/2005/17/>
+Acme::POE::Knee - L<pod|Acme::POE::Knee>, L<http://www.perladvent.org/2005/17/>
 
-Regexp::Assemble - L<Regexp::Assemble|pod>, L<http://www.perladvent.org/2005/18/>
+Regexp::Assemble - L<pod|Regexp::Assemble>, L<http://www.perladvent.org/2005/18/>
 
-Test::Perl::Critic - L<Test::Perl::Critic|pod>, L<http://www.perladvent.org/2005/19/>
+Test::Perl::Critic - L<pod|Test::Perl::Critic>, L<http://www.perladvent.org/2005/19/>
 
-Perl::Compare - L<Perl::Compare|pod>, L<http://www.perladvent.org/2005/20/>
+Perl::Compare - L<pod|Perl::Compare>, L<http://www.perladvent.org/2005/20/>
 
-Want - L<Want|pod>, L<http://www.perladvent.org/2005/21/>
+Want - L<pod|Want>, L<http://www.perladvent.org/2005/21/>
 
-Module::CoreList - L<Module::CoreList|pod>, L<http://www.perladvent.org/2005/22/>
+Module::CoreList - L<pod|Module::CoreList>, L<http://www.perladvent.org/2005/22/>
 
-Sort::Maker - L<Sort::Maker|pod>, L<http://www.perladvent.org/2005/23/>
+Sort::Maker - L<pod|Sort::Maker>, L<http://www.perladvent.org/2005/23/>
 
-enum - L<enum|pod>, L<http://www.perladvent.org/2005/24/>
+enum - L<pod|enum>, L<http://www.perladvent.org/2005/24/>
 
-enum::hash - L<enum::hash|pod>, L<http://www.perladvent.org/2005/24/>
+enum::hash - L<pod|enum::hash>, L<http://www.perladvent.org/2005/24/>
 
-Text::FIGlet - L<Text::FIGlet|pod>, L<http://www.perladvent.org/2005/25/>
+Text::FIGlet - L<pod|Text::FIGlet>, L<http://www.perladvent.org/2005/25/>
 
 
 

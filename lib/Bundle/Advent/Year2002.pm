@@ -1,6 +1,6 @@
 package Bundle::Advent::Year2002;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -14,7 +14,7 @@ Bundle::Advent::Year2002 - Modules of the 2002 Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -25,55 +25,55 @@ L<http://www.perladvent.org/2002/>.
 
 =head1 CONTENTS
 
-URI::Find - L<URI::Find|pod>, L<http://www.perladvent.org/2002/01/>
+URI::Find - L<pod|URI::Find>, L<http://www.perladvent.org/2002/01/>
 
-IO::AtomicFile - L<IO::AtomicFile|pod>, L<http://www.perladvent.org/2002/02/>
+IO::AtomicFile - L<pod|IO::AtomicFile>, L<http://www.perladvent.org/2002/02/>
 
-DBD::SQLite - L<DBD::SQLite|pod>, L<http://www.perladvent.org/2002/03/>
+DBD::SQLite - L<pod|DBD::SQLite>, L<http://www.perladvent.org/2002/03/>
 
-Test::Builder - L<Test::Builder|pod>, L<http://www.perladvent.org/2002/04/>
+Test::Builder - L<pod|Test::Builder>, L<http://www.perladvent.org/2002/04/>
 
-Image::Size - L<Image::Size|pod>, L<http://www.perladvent.org/2002/05/>
+Image::Size - L<pod|Image::Size>, L<http://www.perladvent.org/2002/05/>
 
-Devel::Size - L<Devel::Size|pod>, L<http://www.perladvent.org/2002/06/>
+Devel::Size - L<pod|Devel::Size>, L<http://www.perladvent.org/2002/06/>
 
-File::MMagic - L<File::MMagic|pod>, L<http://www.perladvent.org/2002/07/>
+File::MMagic - L<pod|File::MMagic>, L<http://www.perladvent.org/2002/07/>
 
-XML::Handler::AxPoint - L<XML::Handler::AxPoint|pod>, L<http://www.perladvent.org/2002/08/>
+XML::Handler::AxPoint - L<pod|XML::Handler::AxPoint>, L<http://www.perladvent.org/2002/08/>
 
-XML::SAX - L<XML::SAX|pod>, L<http://www.perladvent.org/2002/09/>
+XML::SAX - L<pod|XML::SAX>, L<http://www.perladvent.org/2002/09/>
 
-Params::Validate - L<Params::Validate|pod>, L<http://www.perladvent.org/2002/10/>
+Params::Validate - L<pod|Params::Validate>, L<http://www.perladvent.org/2002/10/>
 
-File::Find::Rule - L<File::Find::Rule|pod>, L<http://www.perladvent.org/2002/11/>
+File::Find::Rule - L<pod|File::Find::Rule>, L<http://www.perladvent.org/2002/11/>
 
-Object::Realize::Later - L<Object::Realize::Later|pod>, L<http://www.perladvent.org/2002/12/>
+Object::Realize::Later - L<pod|Object::Realize::Later>, L<http://www.perladvent.org/2002/12/>
 
-Benchmark - L<Benchmark|pod>, L<http://www.perladvent.org/2002/13/>
+Benchmark - L<pod|Benchmark>, L<http://www.perladvent.org/2002/13/>
 
-Test::MockObject - L<Test::MockObject|pod>, L<http://www.perladvent.org/2002/14/>
+Test::MockObject - L<pod|Test::MockObject>, L<http://www.perladvent.org/2002/14/>
 
-YAML - L<YAML|pod>, L<http://www.perladvent.org/2002/15/>
+YAML - L<pod|YAML>, L<http://www.perladvent.org/2002/15/>
 
-WWW::Mechanize - L<WWW::Mechanize|pod>, L<http://www.perladvent.org/2002/16/>
+WWW::Mechanize - L<pod|WWW::Mechanize>, L<http://www.perladvent.org/2002/16/>
 
-Acme::Intraweb - L<Acme::Intraweb|pod>, L<http://www.perladvent.org/2002/17/>
+Acme::Intraweb - L<pod|Acme::Intraweb>, L<http://www.perladvent.org/2002/17/>
 
-CPANPLUS - L<CPANPLUS|pod>, L<http://www.perladvent.org/2002/18/>
+CPANPLUS - L<pod|CPANPLUS>, L<http://www.perladvent.org/2002/18/>
 
-Inline::TT - L<Inline::TT|pod>, L<http://www.perladvent.org/2002/19/>
+Inline::TT - L<pod|Inline::TT>, L<http://www.perladvent.org/2002/19/>
 
-Class::Data::Inheritable - L<Class::Data::Inheritable|pod>, L<http://www.perladvent.org/2002/20/>
+Class::Data::Inheritable - L<pod|Class::Data::Inheritable>, L<http://www.perladvent.org/2002/20/>
 
-Tie::File - L<Tie::File|pod>, L<http://www.perladvent.org/2002/21/>
+Tie::File - L<pod|Tie::File>, L<http://www.perladvent.org/2002/21/>
 
-XML::LibXML - L<XML::LibXML|pod>, L<http://www.perladvent.org/2002/22/>
+XML::LibXML - L<pod|XML::LibXML>, L<http://www.perladvent.org/2002/22/>
 
-Class::DBI - L<Class::DBI|pod>, L<http://www.perladvent.org/2002/23/>
+Class::DBI - L<pod|Class::DBI>, L<http://www.perladvent.org/2002/23/>
 
-Pixie - L<Pixie|pod>, L<http://www.perladvent.org/2002/24/>
+Pixie - L<pod|Pixie>, L<http://www.perladvent.org/2002/24/>
 
-Devel::DProf - L<Devel::DProf|pod>, L<http://www.perladvent.org/2002/25/>
+Devel::DProf - L<pod|Devel::DProf>, L<http://www.perladvent.org/2002/25/>
 
 
 

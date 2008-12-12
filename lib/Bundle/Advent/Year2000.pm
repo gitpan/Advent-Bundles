@@ -1,6 +1,6 @@
 package Bundle::Advent::Year2000;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -14,7 +14,7 @@ Bundle::Advent::Year2000 - Modules of the 2000 Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -25,53 +25,53 @@ L<http://www.perladvent.org/2000/>.
 
 =head1 CONTENTS
 
-Data::Dumper - L<Data::Dumper|pod>, L<http://www.perladvent.org/2000/01/>
+Data::Dumper - L<pod|Data::Dumper>, L<http://www.perladvent.org/2000/01/>
 
-LWP::Simple - L<LWP::Simple|pod>, L<http://www.perladvent.org/2000/02/>
+LWP::Simple - L<pod|LWP::Simple>, L<http://www.perladvent.org/2000/02/>
 
-POE::Component::IRC - L<POE::Component::IRC|pod>, L<http://www.perladvent.org/2000/03/>
+POE::Component::IRC - L<pod|POE::Component::IRC>, L<http://www.perladvent.org/2000/03/>
 
-Exporter - L<Exporter|pod>, L<http://www.perladvent.org/2000/04/>
+Exporter - L<pod|Exporter>, L<http://www.perladvent.org/2000/04/>
 
-Time::Local - L<Time::Local|pod>, L<http://www.perladvent.org/2000/05/>
+Time::Local - L<pod|Time::Local>, L<http://www.perladvent.org/2000/05/>
 
-Time::Object - L<Time::Object|pod>, L<http://www.perladvent.org/2000/06/>
+Time::Object - L<pod|Time::Object>, L<http://www.perladvent.org/2000/06/>
 
-Tie::Scalar::Timeout - L<Tie::Scalar::Timeout|pod>, L<http://www.perladvent.org/2000/07/>
+Tie::Scalar::Timeout - L<pod|Tie::Scalar::Timeout>, L<http://www.perladvent.org/2000/07/>
 
-Tie::HashDefaults - L<Tie::HashDefaults|pod>, L<http://www.perladvent.org/2000/08/>
+Tie::HashDefaults - L<pod|Tie::HashDefaults>, L<http://www.perladvent.org/2000/08/>
 
-Crypt::RC4 - L<Crypt::RC4|pod>, L<http://www.perladvent.org/2000/09/>
+Crypt::RC4 - L<pod|Crypt::RC4>, L<http://www.perladvent.org/2000/09/>
 
-GD - L<GD|pod>, L<http://www.perladvent.org/2000/10/>
+GD - L<pod|GD>, L<http://www.perladvent.org/2000/10/>
 
-Image::Imlib2 - L<Image::Imlib2|pod>, L<http://www.perladvent.org/2000/11/>
+Image::Imlib2 - L<pod|Image::Imlib2>, L<http://www.perladvent.org/2000/11/>
 
-File::Remote - L<File::Remote|pod>, L<http://www.perladvent.org/2000/12/>
+File::Remote - L<pod|File::Remote>, L<http://www.perladvent.org/2000/12/>
 
-XML::Grove - L<XML::Grove|pod>, L<http://www.perladvent.org/2000/14/>
+XML::Grove - L<pod|XML::Grove>, L<http://www.perladvent.org/2000/14/>
 
-Getopt::Long - L<Getopt::Long|pod>, L<http://www.perladvent.org/2000/15/>
+Getopt::Long - L<pod|Getopt::Long>, L<http://www.perladvent.org/2000/15/>
 
-File::Find - L<File::Find|pod>, L<http://www.perladvent.org/2000/16/>
+File::Find - L<pod|File::Find>, L<http://www.perladvent.org/2000/16/>
 
-DBI - L<DBI|pod>, L<http://www.perladvent.org/2000/17/>
+DBI - L<pod|DBI>, L<http://www.perladvent.org/2000/17/>
 
-Memoize - L<Memoize|pod>, L<http://www.perladvent.org/2000/18/>
+Memoize - L<pod|Memoize>, L<http://www.perladvent.org/2000/18/>
 
-Storable - L<Storable|pod>, L<http://www.perladvent.org/2000/19/>
+Storable - L<pod|Storable>, L<http://www.perladvent.org/2000/19/>
 
-Inline - L<Inline|pod>, L<http://www.perladvent.org/2000/20/>
+Inline - L<pod|Inline>, L<http://www.perladvent.org/2000/20/>
 
-Class::Virtual - L<Class::Virtual|pod>, L<http://www.perladvent.org/2000/21/>
+Class::Virtual - L<pod|Class::Virtual>, L<http://www.perladvent.org/2000/21/>
 
-Class::Multimethods - L<Class::Multimethods|pod>, L<http://www.perladvent.org/2000/22/>
+Class::Multimethods - L<pod|Class::Multimethods>, L<http://www.perladvent.org/2000/22/>
 
-Symbol::Approx::Sub - L<Symbol::Approx::Sub|pod>, L<http://www.perladvent.org/2000/23/>
+Symbol::Approx::Sub - L<pod|Symbol::Approx::Sub>, L<http://www.perladvent.org/2000/23/>
 
-Template - L<Template|pod>, L<http://www.perladvent.org/2000/24/>
+Template - L<pod|Template>, L<http://www.perladvent.org/2000/24/>
 
-Date::Christmas - L<Date::Christmas|pod>, L<http://www.perladvent.org/2000/25/>
+Date::Christmas - L<pod|Date::Christmas>, L<http://www.perladvent.org/2000/25/>
 
 
 

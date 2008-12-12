@@ -1,5 +1,10 @@
 Revision history for Bundle-Advent
 
-0.01    2008-12-10
+0.02    2008-12-12
+        * mass-fixed the backwords L<> usage for the 'pod' links.
+        * tweaked the 2003 Regex::Common line item.
+        * removed the 2007 Perl5.10 line item.
+
+0.01    2008-12-11
         * Iniitial release.  Includes years 2000-2007.
 

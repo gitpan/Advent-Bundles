@@ -1,6 +1,6 @@
 package Bundle::Advent::Year2007;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -14,7 +14,7 @@ Bundle::Advent::Year2007 - Modules of the 2007 Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -25,39 +25,37 @@ L<http://www.perladvent.org/2007/>.
 
 =head1 CONTENTS
 
-Data::ICal - L<Data::ICal|pod>, L<http://www.perladvent.org/2007/01/>
+Data::ICal - L<pod|Data::ICal>, L<http://www.perladvent.org/2007/01/>
 
-Parallel::Jobs - L<Parallel::Jobs|pod>, L<http://www.perladvent.org/2007/02/>
+Parallel::Jobs - L<pod|Parallel::Jobs>, L<http://www.perladvent.org/2007/02/>
 
-DBIx::Profile - L<DBIx::Profile|pod>, L<http://www.perladvent.org/2007/03/>
+DBIx::Profile - L<pod|DBIx::Profile>, L<http://www.perladvent.org/2007/03/>
 
-Test::Differences - L<Test::Differences|pod>, L<http://www.perladvent.org/2007/04/>
+Test::Differences - L<pod|Test::Differences>, L<http://www.perladvent.org/2007/04/>
 
-File::Which - L<File::Which|pod>, L<http://www.perladvent.org/2007/05/>
+File::Which - L<pod|File::Which>, L<http://www.perladvent.org/2007/05/>
 
-File::ReadBackwards - L<File::ReadBackwards|pod>, L<http://www.perladvent.org/2007/06/>
+File::ReadBackwards - L<pod|File::ReadBackwards>, L<http://www.perladvent.org/2007/06/>
 
-TimeDate - L<TimeDate|pod>, L<http://www.perladvent.org/2007/07/>
+TimeDate - L<pod|TimeDate>, L<http://www.perladvent.org/2007/07/>
 
-Math::Combinatorics - L<Math::Combinatorics|pod>, L<http://www.perladvent.org/2007/08/>
+Math::Combinatorics - L<pod|Math::Combinatorics>, L<http://www.perladvent.org/2007/08/>
 
-Sub::Versive - L<Sub::Versive|pod>, L<http://www.perladvent.org/2007/09/>
+Sub::Versive - L<pod|Sub::Versive>, L<http://www.perladvent.org/2007/09/>
 
-forks - L<forks|pod>, L<http://www.perladvent.org/2007/11/>
+forks - L<pod|forks>, L<http://www.perladvent.org/2007/11/>
 
-DateTime::TimeZone - L<DateTime::TimeZone|pod>, L<http://www.perladvent.org/2007/16/>
+DateTime::TimeZone - L<pod|DateTime::TimeZone>, L<http://www.perladvent.org/2007/16/>
 
-Pod::Simple::Subclassing - L<Pod::Simple::Subclassing|pod>, L<http://www.perladvent.org/2007/17/>
+Pod::Simple::Subclassing - L<pod|Pod::Simple::Subclassing>, L<http://www.perladvent.org/2007/17/>
 
-Acme::Curses:Marquee - L<Acme::Curses:Marquee|pod>, L<http://www.perladvent.org/2007/18/>
+Acme::Curses:Marquee - L<pod|Acme::Curses:Marquee>, L<http://www.perladvent.org/2007/18/>
 
-Perl5.10 - L<Perl5.10|pod>, L<http://www.perladvent.org/2007/19/>
+B::Fathom - L<pod|B::Fathom>, L<http://www.perladvent.org/2007/23/>
 
-B::Fathom - L<B::Fathom|pod>, L<http://www.perladvent.org/2007/23/>
+Text::vCard - L<pod|Text::vCard>, L<http://www.perladvent.org/2007/24/>
 
-Text::vCard - L<Text::vCard|pod>, L<http://www.perladvent.org/2007/24/>
-
-Time::Out - L<Time::Out|pod>, L<http://www.perladvent.org/2007/25/>
+Time::Out - L<pod|Time::Out>, L<http://www.perladvent.org/2007/25/>
 
 
 

@@ -1,6 +1,6 @@
 package Bundle::Advent::Year2006;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -14,7 +14,7 @@ Bundle::Advent::Year2006 - Modules of the 2006 Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -25,61 +25,61 @@ L<http://www.perladvent.org/2006/>.
 
 =head1 CONTENTS
 
-Devel::SmallProf - L<Devel::SmallProf|pod>, L<http://www.perladvent.org/2006/01/>
+Devel::SmallProf - L<pod|Devel::SmallProf>, L<http://www.perladvent.org/2006/01/>
 
-File::Find::Object - L<File::Find::Object|pod>, L<http://www.perladvent.org/2006/02/>
+File::Find::Object - L<pod|File::Find::Object>, L<http://www.perladvent.org/2006/02/>
 
-Treemap - L<Treemap|pod>, L<http://www.perladvent.org/2006/03/>
+Treemap - L<pod|Treemap>, L<http://www.perladvent.org/2006/03/>
 
-CGI::Minimal - L<CGI::Minimal|pod>, L<http://www.perladvent.org/2006/04/>
+CGI::Minimal - L<pod|CGI::Minimal>, L<http://www.perladvent.org/2006/04/>
 
-ack - L<ack|pod>, L<http://www.perladvent.org/2006/05/>
+ack - L<pod|ack>, L<http://www.perladvent.org/2006/05/>
 
-Module::Starter - L<Module::Starter|pod>, L<http://www.perladvent.org/2006/06/>
+Module::Starter - L<pod|Module::Starter>, L<http://www.perladvent.org/2006/06/>
 
-Acme::Don't - L<Acme::Don't|pod>, L<http://www.perladvent.org/2006/07/>
+Acme::Don't - L<pod|Acme::Don't>, L<http://www.perladvent.org/2006/07/>
 
-File::SortedSeek - L<File::SortedSeek|pod>, L<http://www.perladvent.org/2006/08/>
+File::SortedSeek - L<pod|File::SortedSeek>, L<http://www.perladvent.org/2006/08/>
 
-Devel::ptkdb - L<Devel::ptkdb|pod>, L<http://www.perladvent.org/2006/09/>
+Devel::ptkdb - L<pod|Devel::ptkdb>, L<http://www.perladvent.org/2006/09/>
 
-Fatal - L<Fatal|pod>, L<http://www.perladvent.org/2006/10/>
+Fatal - L<pod|Fatal>, L<http://www.perladvent.org/2006/10/>
 
-Graphics::ColorNames - L<Graphics::ColorNames|pod>, L<http://www.perladvent.org/2006/11/>
+Graphics::ColorNames - L<pod|Graphics::ColorNames>, L<http://www.perladvent.org/2006/11/>
 
-GD::Simple - L<GD::Simple|pod>, L<http://www.perladvent.org/2006/11/>
+GD::Simple - L<pod|GD::Simple>, L<http://www.perladvent.org/2006/11/>
 
-Pod::Usage - L<Pod::Usage|pod>, L<http://www.perladvent.org/2006/12/>
+Pod::Usage - L<pod|Pod::Usage>, L<http://www.perladvent.org/2006/12/>
 
-Geopt::Euclid - L<Geopt::Euclid|pod>, L<http://www.perladvent.org/2006/12/>
+Geopt::Euclid - L<pod|Geopt::Euclid>, L<http://www.perladvent.org/2006/12/>
 
-Shell - L<Shell|pod>, L<http://www.perladvent.org/2006/13/>
+Shell - L<pod|Shell>, L<http://www.perladvent.org/2006/13/>
 
-IPC::Run3 - L<IPC::Run3|pod>, L<http://www.perladvent.org/2006/14/>
+IPC::Run3 - L<pod|IPC::Run3>, L<http://www.perladvent.org/2006/14/>
 
-File::HomeDir - L<File::HomeDir|pod>, L<http://www.perladvent.org/2006/15/>
+File::HomeDir - L<pod|File::HomeDir>, L<http://www.perladvent.org/2006/15/>
 
-Number::WithError - L<Number::WithError|pod>, L<http://www.perladvent.org/2006/16/>
+Number::WithError - L<pod|Number::WithError>, L<http://www.perladvent.org/2006/16/>
 
-Logfile::Rotate - L<Logfile::Rotate|pod>, L<http://www.perladvent.org/2006/17/>
+Logfile::Rotate - L<pod|Logfile::Rotate>, L<http://www.perladvent.org/2006/17/>
 
-Text::Diff - L<Text::Diff|pod>, L<http://www.perladvent.org/2006/18/>
+Text::Diff - L<pod|Text::Diff>, L<http://www.perladvent.org/2006/18/>
 
-XML::Feed - L<XML::Feed|pod>, L<http://www.perladvent.org/2006/19/>
+XML::Feed - L<pod|XML::Feed>, L<http://www.perladvent.org/2006/19/>
 
-Date::Calc - L<Date::Calc|pod>, L<http://www.perladvent.org/2006/20/>
+Date::Calc - L<pod|Date::Calc>, L<http://www.perladvent.org/2006/20/>
 
-Devel::Cover - L<Devel::Cover|pod>, L<http://www.perladvent.org/2006/21/>
+Devel::Cover - L<pod|Devel::Cover>, L<http://www.perladvent.org/2006/21/>
 
-PAR::Dist - L<PAR::Dist|pod>, L<http://www.perladvent.org/2006/22/>
+PAR::Dist - L<pod|PAR::Dist>, L<http://www.perladvent.org/2006/22/>
 
-PAR::Dist::FromCPAN - L<PAR::Dist::FromCPAN|pod>, L<http://www.perladvent.org/2006/22/>
+PAR::Dist::FromCPAN - L<pod|PAR::Dist::FromCPAN>, L<http://www.perladvent.org/2006/22/>
 
-criticism - L<criticism|pod>, L<http://www.perladvent.org/2006/23/>
+criticism - L<pod|criticism>, L<http://www.perladvent.org/2006/23/>
 
-DBD::AnyData - L<DBD::AnyData|pod>, L<http://www.perladvent.org/2006/24/>
+DBD::AnyData - L<pod|DBD::AnyData>, L<http://www.perladvent.org/2006/24/>
 
-DateTime::Calendar::Discordian - L<DateTime::Calendar::Discordian|pod>, L<http://www.perladvent.org/2006/25/>
+DateTime::Calendar::Discordian - L<pod|DateTime::Calendar::Discordian>, L<http://www.perladvent.org/2006/25/>
 
 
 

@@ -1,6 +1,6 @@
 package Bundle::Advent::Year2004;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -14,7 +14,7 @@ Bundle::Advent::Year2004 - Modules of the 2004 Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -25,45 +25,45 @@ L<http://www.perladvent.org/2004/>.
 
 =head1 CONTENTS
 
-DateTime - L<DateTime|pod>, L<http://www.perladvent.org/2004/01/>
+DateTime - L<pod|DateTime>, L<http://www.perladvent.org/2004/01/>
 
-Term::ANSIColor - L<Term::ANSIColor|pod>, L<http://www.perladvent.org/2004/02/>
+Term::ANSIColor - L<pod|Term::ANSIColor>, L<http://www.perladvent.org/2004/02/>
 
-Class::Accessor::Chained - L<Class::Accessor::Chained|pod>, L<http://www.perladvent.org/2004/03/>
+Class::Accessor::Chained - L<pod|Class::Accessor::Chained>, L<http://www.perladvent.org/2004/03/>
 
-String::ShellQuote - L<String::ShellQuote|pod>, L<http://www.perladvent.org/2004/04/>
+String::ShellQuote - L<pod|String::ShellQuote>, L<http://www.perladvent.org/2004/04/>
 
-CPAN::Mini - L<CPAN::Mini|pod>, L<http://www.perladvent.org/2004/05/>
+CPAN::Mini - L<pod|CPAN::Mini>, L<http://www.perladvent.org/2004/05/>
 
-Module::Pluggable - L<Module::Pluggable|pod>, L<http://www.perladvent.org/2004/06/>
+Module::Pluggable - L<pod|Module::Pluggable>, L<http://www.perladvent.org/2004/06/>
 
-Term::ProgressBar - L<Term::ProgressBar|pod>, L<http://www.perladvent.org/2004/07/>
+Term::ProgressBar - L<pod|Term::ProgressBar>, L<http://www.perladvent.org/2004/07/>
 
-Data::Dumper::Simple - L<Data::Dumper::Simple|pod>, L<http://www.perladvent.org/2004/08/>
+Data::Dumper::Simple - L<pod|Data::Dumper::Simple>, L<http://www.perladvent.org/2004/08/>
 
-Proc::Daemon - L<Proc::Daemon|pod>, L<http://www.perladvent.org/2004/09/>
+Proc::Daemon - L<pod|Proc::Daemon>, L<http://www.perladvent.org/2004/09/>
 
-Data::UUID - L<Data::UUID|pod>, L<http://www.perladvent.org/2004/10/>
+Data::UUID - L<pod|Data::UUID>, L<http://www.perladvent.org/2004/10/>
 
-Encode - L<Encode|pod>, L<http://www.perladvent.org/2004/11/>
+Encode - L<pod|Encode>, L<http://www.perladvent.org/2004/11/>
 
-Text::Unidecode - L<Text::Unidecode|pod>, L<http://www.perladvent.org/2004/12/>
+Text::Unidecode - L<pod|Text::Unidecode>, L<http://www.perladvent.org/2004/12/>
 
-Devel::Trace - L<Devel::Trace|pod>, L<http://www.perladvent.org/2004/13/>
+Devel::Trace - L<pod|Devel::Trace>, L<http://www.perladvent.org/2004/13/>
 
-SQL::Abstract - L<SQL::Abstract|pod>, L<http://www.perladvent.org/2004/14/>
+SQL::Abstract - L<pod|SQL::Abstract>, L<http://www.perladvent.org/2004/14/>
 
-Archive::Extract - L<Archive::Extract|pod>, L<http://www.perladvent.org/2004/15/>
+Archive::Extract - L<pod|Archive::Extract>, L<http://www.perladvent.org/2004/15/>
 
-Cache::Cache - L<Cache::Cache|pod>, L<http://www.perladvent.org/2004/16/>
+Cache::Cache - L<pod|Cache::Cache>, L<http://www.perladvent.org/2004/16/>
 
-Mac::Glue - L<Mac::Glue|pod>, L<http://www.perladvent.org/2004/17/>
+Mac::Glue - L<pod|Mac::Glue>, L<http://www.perladvent.org/2004/17/>
 
-Acme::Drunk - L<Acme::Drunk|pod>, L<http://www.perladvent.org/2004/18/>
+Acme::Drunk - L<pod|Acme::Drunk>, L<http://www.perladvent.org/2004/18/>
 
-Filesys::Virtual - L<Filesys::Virtual|pod>, L<http://www.perladvent.org/2004/20/>
+Filesys::Virtual - L<pod|Filesys::Virtual>, L<http://www.perladvent.org/2004/20/>
 
-Sys::Hostname - L<Sys::Hostname|pod>, L<http://www.perladvent.org/2004/21/>
+Sys::Hostname - L<pod|Sys::Hostname>, L<http://www.perladvent.org/2004/21/>
 
 
 

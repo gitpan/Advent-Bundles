@@ -61,7 +61,7 @@ Text::Metaphone - L<pod|Text::Metaphone>, L<http://www.perladvent.org/2008/20/>
 
 String::Approx - L<pod|String::Approx>, L<http://www.perladvent.org/2008/20/>
 
-App:Asciio - L<pod|App:Asciio>, L<http://www.perladvent.org/2008/21/>
+App::Asciio - L<pod|App::Asciio>, L<http://www.perladvent.org/2008/21/>
 
 Regexp::Subst::Parallel - L<pod|Regexp::Subst::Parallel>, L<http://www.perladvent.org/2008/22/>
 

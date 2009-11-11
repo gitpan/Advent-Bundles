@@ -1,6 +1,6 @@
 package Advent::Bundles;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 1;
 
@@ -14,7 +14,7 @@ Advent::Bundles - Collection of year-by-year Bundles of the Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =head1 SYNOPSIS
 

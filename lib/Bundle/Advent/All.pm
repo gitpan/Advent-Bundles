@@ -1,6 +1,6 @@
 package Bundle::Advent::All;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 1;
 
@@ -14,7 +14,7 @@ Bundle::Advent::All - Modules of all years of the Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =head1 SYNOPSIS
 
@@ -42,6 +42,8 @@ Bundle::Advent::Year2006
 Bundle::Advent::Year2007
 
 Bundle::Advent::Year2008
+
+Bundle::Advent::Year2009
 
 
 =head1 AUTHOR

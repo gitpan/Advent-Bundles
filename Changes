@@ -1,5 +1,9 @@
 Revision history for Bundle-Advent
 
+0.05	2011-02-21
+	* Added Bundle::Advent::Year2010
+	* Populated Bundle::Advent::Year2010
+
 0.04	2009-11-11
 	* fixed pod typo
 	* Added Bundle::Advent::Year2009 placeholder

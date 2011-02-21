@@ -14,6 +14,7 @@ lib/Bundle/Advent/Year2006.pm
 lib/Bundle/Advent/Year2007.pm
 lib/Bundle/Advent/Year2008.pm
 lib/Bundle/Advent/Year2009.pm
+lib/Bundle/Advent/Year2010.pm
 t/00-load.t
 t/pod-coverage.t
 t/pod.t

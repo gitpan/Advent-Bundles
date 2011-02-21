@@ -1,6 +1,6 @@
 package Advent::Bundles;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 1;
 
@@ -14,11 +14,11 @@ Advent::Bundles - Collection of year-by-year Bundles of the Perl Advent Calendar
 
 =head1 VERSION
 
-Version 0.04
+Version 0.05
 
 =head1 SYNOPSIS
 
-Provides bundles for the modules showcased in each year of the 2007 Perl Advent Calendar:
+Provides bundles for the modules showcased in each year of the Perl Advent Calendar:
 L<http://www.perladvent.org>.
 
 To install a set of modules:
@@ -82,7 +82,7 @@ The Perl Advent Calendar - L<http://www.perladvent.org> - for the annual product
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008 David Westbrook, all rights reserved.
+Copyright 2008-2011 David Westbrook, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
